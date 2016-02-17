@@ -1,7 +1,7 @@
 Polar H7 BLE Recorder for Android
+============
 
 Based on https://github.com/oerjanti/BLE-Heart-rate-variability-demo Developed By
-============
 
 * Olli Erjanti - <olli@erjanti.fi>
 
